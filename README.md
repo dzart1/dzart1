@@ -12,4 +12,4 @@ Blockchain: Ethereum, various testnets, smart contract frameworks (e.g., Truffle
 Tools & Services: Docker, GitHub Actions (CI/CD), AWS, Azure
 Databases: PostgreSQL, MongoDB
 
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="Your GitHub stats" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" alt="Top languages" /> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzart1&show_icons=true&theme=default" alt="Your GitHub stats" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzart1&layout=compact&theme=default" alt="Top languages" /> </a>
